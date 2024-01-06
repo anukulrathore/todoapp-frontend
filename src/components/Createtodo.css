@@ -1,0 +1,18 @@
+
+.container > input{
+    padding: 0.5vmax;
+    margin: 0.5vmax;
+    border-radius:5px;
+}
+
+#btn{
+    border: solid;
+    padding: .5vmax;
+    margin: .5vmax;
+    background-color: rgba(0, 255, 255, 0.297);
+    border-radius:5px;
+}
+
+#btn:Hover{
+    background-color:aqua;
+}
